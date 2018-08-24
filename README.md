@@ -6,11 +6,11 @@ Neste teste existem várias respostas corretas, pois o objetivo é avaliar a sua
 
 ## Obrigatoriedades
 
-O projeto deve utilizar webpack, e deve ser desenvolvido em React, Relay e Graphql.
+O projeto deve ser desenvolvido em React, Relay e Graphql.
 
 O Front-End deve utilizar Material UI: https://material-ui-next.com/
 
-Os produtos disponíveis devem ser recuperados através de uma API Rest
+Os produtos disponíveis devem ser recuperados através da api Graphql.
 
 ## Carrinho de Compras
 
@@ -48,7 +48,7 @@ O carrinho deve:
 - Criar issues e resolvê-las a partir de pull requests
 - Documentação no código
 - Arquivos pequenos com poucas responsabilidades
-- Redux
+- Estado da aplicação bem estruturado
 - Usabilidade e feedback para o usuário no carregamento da consulta
 - Seguir algum Javascript Style Guide
 - Layout responsivo (seja criativo!)
