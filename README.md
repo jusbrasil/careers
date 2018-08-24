@@ -52,4 +52,5 @@ O carrinho deve:
 - Usabilidade e feedback para o usuário no carregamento da consulta
 - Seguir algum Javascript Style Guide
 - Layout responsivo (seja criativo!)
+- Testes unitários
 
