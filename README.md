@@ -10,7 +10,7 @@ O projeto deve utilizar webpack, e deve ser desenvolvido em React, Relay e Graph
 
 O Front-End deve utilizar Material UI: https://material-ui-next.com/
 
-Os produtos disponíveis devem ser recuperados através de uma API Rest, disponibilizada neste mesmo projeto.
+Os produtos disponíveis devem ser recuperados através de uma API Rest
 
 ## Carrinho de Compras
 
