@@ -29,7 +29,6 @@ Some of the technologies that Jusbrasil works with: React, Relay and Graphql, Re
 ## Benefits
 - Highly Competitive Salary
 - Working with great people - No Assholes (really)
-- Remote work is fine
 - Flexible schedule - Just do whatever works best for you
 - Working at a company that knows that maintaining a great culture is a key factor to success
 - Weekly happy hours (with instruments, beer and things that come along with it :-)
