@@ -34,5 +34,5 @@ Some of the technologies that Jusbrasil works with: React, Relay and Graphql, Re
 - Weekly happy hours (with instruments, beer and things that come along with it :-)
 
 ## Want to learn more about us?
-[Uma espadinha dentro do Jusbrasil](https://danielmurta.jusbrasil.com.br/artigos/383937197/o-o-uma-espiadinha-dentro-do-jusbrasil
+[Uma espiadinha dentro do Jusbrasil](https://danielmurta.jusbrasil.com.br/artigos/383937197/o-o-uma-espiadinha-dentro-do-jusbrasil
 )

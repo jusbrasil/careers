@@ -37,7 +37,7 @@ On a daily basis, you'll be helping the team to thrive, implementing data extrac
  - Weekly happy hours (with instruments, beer and things that come along with it :-)
 
  ### Want to learn more about us?
- [Uma espadinha dentro do Jusbrasil](https://danielmurta.jusbrasil.com.br/artigos/383937197/o-o-uma-espiadinha-dentro-do-jusbrasil
+ [Uma espiadinha dentro do Jusbrasil](https://danielmurta.jusbrasil.com.br/artigos/383937197/o-o-uma-espiadinha-dentro-do-jusbrasil
  )
 
 If you're interested, please mail us at vagas@jusbrasil.com.br with the subject `<YOUR_NAME> | Backend Engineer Position | Data`.
