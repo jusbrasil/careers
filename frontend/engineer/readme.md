@@ -8,7 +8,7 @@ You love programming and are eager about learning new technologies
 - You can hit the ground running
 
 ## About the role
-We're looking for a Frontend Engineer to join Jusbrasil's Escritório Online team. We are developing tools for lawyers to improve their performance and reduce pain points. Jusbrasil has 700 thousand lawyers profiles, this is an open line of communication to understand their needs and create the best product possible. It is a continuous effort of the team to get insights for new features with customer development, surveys and benchmarks. 
+We're looking for a Frontend Engineer to join Jusbrasil's Escritório Online team. We are developing tools for lawyers to improve their performance and reduce pain points. Jusbrasil has 700 thousand lawyers profiles, this is an open line of communication to understand their needs and create the best product possible. It is a continuous effort of the team to get insights for new features with customer development, surveys and benchmarks.
 
 Working with us you will see through all phases of a product, from business needs, product conception, development, release, to the user engagement.
 
@@ -24,7 +24,12 @@ Working with us you will see through all phases of a product, from business need
 - Are experienced with React, Relay and Graphql
 - Have deployed large scale systems
 
-Some of the technologies that Jusbrasil works with: React, Relay and Graphql, Redux, Flow, Sass, Python, Scala, GO, ES6, Mongo, RabbitMQ, Kafka, GraphQL, Bigtable, Kubernetes, Docker, Redis, React, ElasticSearch, Google Cloud Platform, etc.
+### Some of the technologies that Jusbrasil works with
+- ES6, React, Relay, Redux, Flow, Sass
+- Python, Scala, GO
+- Redis, Mongo, GraphQL, Bigtable, ElasticSearch
+- Kafka, RabbitMQ
+- Docker, Kubernetes, Google Cloud Platform
 
 ## Benefits
 - Highly Competitive Salary
