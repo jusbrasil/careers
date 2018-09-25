@@ -24,7 +24,7 @@ Working with us you will see through all phases of a product, from business need
 - Are experienced with React, Relay and Graphql
 - Have deployed large scale systems
 
-Some of the technologies that Jusbrasil works with: React, Relay and Graphql, Redux, Flow, Sass, Python, Scala, GO, ES6, Mongo, RabbitMQ, Kafka, GraphQL, Bigtable, Kubernetes, Docker, Redis, React, ElasticSearch, Google Cloud Platform, etc.
+Some of the technologies that Jusbrasil works with: React, Relay and GraphQL, Redux, Flow, Sass, Python, Scala, GO, ES6, Mongo, RabbitMQ, Kafka, Bigtable, Kubernetes, Docker, Redis, ElasticSearch, Google Cloud Platform, etc.
 
 ## Benefits
 - Highly Competitive Salary
