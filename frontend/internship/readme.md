@@ -13,7 +13,7 @@ We're looking for an university student to join and learn with Jusbrasil's Oppor
 Working with us you will see through all phases of a product, from business needs, product conception, development, release, to the user engagement.
 
 ## Basic Requirements
-- Be a student of any computing university course  (Computer Science/Engineering, Software Engineering, Computer Information Systems, etc)
+- Be a student of any computing university course (Computer Science/Engineering, Software Engineering, Computer Information Systems, etc)
 - Be passionate about software development and computer technologies
 - English content should be no problem for you to master (Bonus if you're an English Speaker)
 
