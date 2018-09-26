@@ -31,7 +31,7 @@ Working with us you will see through all phases of a product, from business need
 - Docker, Kubernetes, Google Cloud Platform
 
 ## Benefits
-- Highly Competitive Salary
+- Competitive Salary
 - Working with great people - No Assholes (really)
 - Flexible schedule - Just do whatever works best for you
 - Working at a company that knows that maintaining a great culture is a key factor to success
