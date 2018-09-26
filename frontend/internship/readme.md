@@ -39,3 +39,5 @@ Working with us you will see through all phases of a product, from business need
 
 ## Want to learn more about us?
 [Uma espiadinha dentro do Jusbrasil](https://danielmurta.jusbrasil.com.br/artigos/383937197/o-o-uma-espiadinha-dentro-do-jusbrasil)
+
+If you're interested, please mail us at vagas@jusbrasil.com.br with the subject `<YOUR_NAME> | Frontend Internship Position`. Make sure you include at least an up-to-date resume or a quick intro about yourself.
