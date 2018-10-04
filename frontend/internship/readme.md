@@ -7,10 +7,11 @@ Salvador, Bahia
 - You love programming and are eager about learning new technologies
 - You can hit the ground running
 
-## About the role
-We're looking for an university student to join and learn with Jusbrasil's Opportunities team. We are developing tools for lawyers to improve their performance and reduce pain points. Jusbrasil has 700 thousand lawyers profiles, this is an open line of communication to understand their needs and create the best product possible. It is a continuous effort of the team to get insights for new features with customer development, surveys and benchmarks.
+## Available the roles
+We're looking for an university students to join and learn with any of ours Jusbrasil's Developers team ;) Working with us you will see through all phases of a product, from business needs, product conception, development, release, to the user engagement.
 
-Working with us you will see through all phases of a product, from business needs, product conception, development, release, to the user engagement.
+#### Opportunities Team \[NOT available right now\]
+In this team we're developing tools for lawyers to improve their performance and reduce pain points. Jusbrasil has 700 thousand lawyers profiles, this is an open line of communication to understand their needs and create the best product possible. It is a continuous effort of the team to get insights for new features with customer development, surveys and benchmarks.
 
 ## Basic Requirements
 - Be a student of any computing university course (Computer Science/Engineering, Software Engineering, Computer Information Systems, etc)
@@ -40,4 +41,5 @@ Working with us you will see through all phases of a product, from business need
 ## Want to learn more about us?
 [Uma espiadinha dentro do Jusbrasil](https://danielmurta.jusbrasil.com.br/artigos/383937197/o-o-uma-espiadinha-dentro-do-jusbrasil)
 
-If you're interested, please mail us at vagas@jusbrasil.com.br with the subject `<YOUR_NAME> | Frontend Internship Position`. Make sure you include at least an up-to-date resume or a quick intro about yourself.
+## How to reach us?
+If any role is available at the time you're reading this and you find yourself interested in it, please mail us at vagas@jusbrasil.com.br with the subject `<YOUR_NAME> | <TEAM> | Frontend Internship Position`. Make sure you include at least an up-to-date resume or a quick intro about yourself.
