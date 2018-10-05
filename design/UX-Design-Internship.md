@@ -19,20 +19,20 @@ Working with us you'll see through all phases of a product, from business needs 
 - English content should be no problem for you to master (Bonus if you're an English Speaker)
 
 ## Extra bonus if you
-Are experienced with UI/UX, Sketch, Design System
-Have you designed any apps or responsive websites
+- Are experienced with UI/UX, Sketch, Design System
+- Have you designed any apps or responsive websites
 
 ## What the designers do here
-Develop flows, wireframes, prototypes and web interfaces;
-Conduct remote and on-site research with our customers;
-Ensure consistency of experience at all points of contact.
+- Develop flows, wireframes, prototypes and web interfaces;
+- Conduct remote and on-site research with our customers;
+- Ensure consistency of experience at all points of contact.
 
 ## Benefits
-Working with great people - No Assholes (really)
-Flexible schedule - Just do whatever works best for you
-Working at a company that knows that maintaining a great culture is a key factor to success
-Weekly happy hours (with instruments, beer and things that come along with it :-)
-Salary: R$ 850/mês
+- Working with great people - No Assholes (really)
+- Flexible schedule - Just do whatever works best for you
+- Working at a company that knows that maintaining a great culture is a key factor to success
+- Weekly happy hours (with instruments, beer and things that come along with it :-)
+- Salary: R$ 850/mês
 
 ## Want to learn more about us?
 [Uma espiadinha dentro do Jusbrasil](https://danielmurta.jusbrasil.com.br/artigos/383937197/o-o-uma-espiadinha-dentro-do-jusbrasil)
