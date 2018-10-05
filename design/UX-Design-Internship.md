@@ -28,11 +28,11 @@ Conduct remote and on-site research with our customers;
 Ensure consistency of experience at all points of contact.
 
 ## Benefits
-Working with great people - No Assholes (really)
-Flexible schedule - Just do whatever works best for you
-Working at a company that knows that maintaining a great culture is a key factor to success
-Weekly happy hours (with instruments, beer and things that come along with it :-)
-Salary: R$ 850/mês
+- Working with great people - No Assholes (really)
+- Flexible schedule - Just do whatever works best for you
+- Working at a company that knows that maintaining a great culture is a key factor to success
+- Weekly happy hours (with instruments, beer and things that come along with it :-)
+- Salary: R$ 850/mês
 
 ## Want to learn more about us?
 [Uma espiadinha dentro do Jusbrasil](https://danielmurta.jusbrasil.com.br/artigos/383937197/o-o-uma-espiadinha-dentro-do-jusbrasil)
