@@ -19,13 +19,13 @@ Working with us you'll see through all phases of a product, from business needs 
 - English content should be no problem for you to master (Bonus if you're an English Speaker)
 
 ## Extra bonus if you
-Are experienced with UI/UX, Sketch, Design System
-Have you designed any apps or responsive websites
+- Are experienced with UI/UX, Sketch, Design System
+- Have you designed any apps or responsive websites
 
 ## What the designers do here
-Develop flows, wireframes, prototypes and web interfaces;
-Conduct remote and on-site research with our customers;
-Ensure consistency of experience at all points of contact.
+- Develop flows, wireframes, prototypes and web interfaces;
+- Conduct remote and on-site research with our customers;
+- Ensure consistency of experience at all points of contact.
 
 ## Benefits
 - Working with great people - No Assholes (really)
