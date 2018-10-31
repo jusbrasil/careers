@@ -32,7 +32,7 @@ Trabalhando conosco, você verá todas as fases de um produto, desde as necessid
 - Flexibilidade no horário - Planeje o que for melhor para você;
 - Trabalhar em uma empresa que sabe que manter uma grande cultura é um fator-chave para o sucesso;
 - Happy hours semanais (Instrumentos musicais, cerveja e outras coisas que vêm junto :-);
-- Bolsa: R$ 850/mês;
+- Bolsa: R$ 1.100/mês + VT;
 
 
 ## Quer aprender mais sobre nós?
