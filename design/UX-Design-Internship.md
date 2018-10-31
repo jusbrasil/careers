@@ -32,7 +32,7 @@ Working with us you'll see through all phases of a product, from business needs 
 - Flexible schedule - Just do whatever works best for you
 - Working at a company that knows that maintaining a great culture is a key factor to success
 - Weekly happy hours (with instruments, beer and things that come along with it :-)
-- Salary: R$ 1100/mês + VT
+- Salary: R$ 1.100/month + VT
 
 ## Want to learn more about us?
 [Uma espiadinha dentro do Jusbrasil](https://danielmurta.jusbrasil.com.br/artigos/383937197/o-o-uma-espiadinha-dentro-do-jusbrasil)
