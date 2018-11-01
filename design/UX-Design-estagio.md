@@ -22,7 +22,7 @@ Trabalhando conosco, você verá todas as fases de um produto, desde as necessid
 - Tem experiência com UI/UX, Sketch, Design System;
 - Já desenhou algum aplicativo ou interface responsiva;
 
-## O que nós Designer fazemos aqui
+## O que nós Designers fazemos aqui
 - Desenvolvemos fluxos, wireframes, protótipos e interfaces web;
 - Conduzimos pesquisas remotas ou no site com nossos clientes;
 - Garantimos a consistência da UX em todos os pontos de contato;
