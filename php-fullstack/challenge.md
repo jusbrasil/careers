@@ -27,7 +27,7 @@ A API de pagamentos deve:
 -   gravar todas as chamadas à API
     
 ## Obrigatoriedades
--   Utilizar PHP 7.x sem framework    
+-   Utilizar PHP 7.x com framework de sua escolha
 -   Testes unitários
 -   Ambiente em contêineres
 -   Readme do projeto com guia para instalar e rodar localmente
