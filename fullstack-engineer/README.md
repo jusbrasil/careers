@@ -8,7 +8,7 @@ São Paulo, SP
 - Organized and self focused, you deliver on time and according to requirements.
 
 ## About the role
-We're looking for a Full Stack PHP Engineer to join Jusbrasil's B2B team. We have the mission of connecting companies and legal offices to professionals in Brazil. We have over 1 million professionals and more than 35k companies and legal offices using our platform.
+We're looking for a Full Stack Engineer to join Jusbrasil's B2B team. We have the mission of connecting companies and legal offices to professionals in Brazil. We have over 1 million professionals and more than 35k companies and legal offices using our platform.
 
 On a daily basis, you'll be helping the team to thrive, implementing new features, reviewing Pull requests and being part of planning meetings to discuss priorities and tackle on things that might get in our way. 
 
@@ -40,5 +40,5 @@ On a daily basis, you'll be helping the team to thrive, implementing new feature
  ## Want to learn more about us?
  [Uma espiadinha dentro do Jusbrasil](https://danielmurta.jusbrasil.com.br/artigos/383937197/o-o-uma-espiadinha-dentro-do-jusbrasil)
 
-If you're interested, please mail us at vagas@jusbrasil.com.br with the subject `<YOUR_NAME> | Full Stack Engineer Position | PHP`.
+If you're interested, please mail us at vagas@jusbrasil.com.br with the subject `<YOUR_NAME> | Full Stack Engineer Position | ReactJS`.
 Make sure you include at least an up-to-date resume or a quick intro about yourself.
