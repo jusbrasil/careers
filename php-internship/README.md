@@ -1,4 +1,4 @@
-# Estágio em Backend PHP | Jusbrasil
+# Fullstack Developer Internship | Jusbrasil
 São Paulo, SP
 
 ## About you
@@ -16,12 +16,11 @@ We're looking for an university student to join and learn with any of ours Jusbr
 - English content should be no problem for you to master (Bonus if you're an English Speaker)
 
  ### Extra bonus if you
+- Have built and deployed any application using ReactJS and/or PHP 7
 - Are engaged to the tech community
 - Have open-source experience
 - Are experienced with PHP latest versions
 - Are experienced with frontend latest technologies
-- Have built and deployed any application using PHP 7
-
 
 Some of the technologies that Jusbrasil works with: PHP, MySQL, Python, Scala, GO, ES6, MongoDB, RabbitMQ, Kafka, GraphQL, Bigtable, Kubernetes, Docker, Redis, ReactJS, ElasticSearch, Google Cloud Platform, etc.
 
