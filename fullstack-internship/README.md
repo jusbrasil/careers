@@ -34,5 +34,5 @@ Some of the technologies that Jusbrasil works with: PHP, MySQL, Python, Scala, G
 ## Want to learn more about us?
  [Uma espiadinha dentro do Jusbrasil](https://danielmurta.jusbrasil.com.br/artigos/383937197/o-o-uma-espiadinha-dentro-do-jusbrasil)
 
-If you're interested, please mail us at vagas@jusbrasil.com.br with the subject `<YOUR_NAME> | Backend Internship Position | PHP`.
+If you're interested, please mail us at vagas@jusbrasil.com.br with the subject `<YOUR_NAME> | Full Stack Internship Position | PHP`.
 Make sure you include at least an up-to-date resume or a quick intro about yourself.
