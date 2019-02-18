@@ -10,7 +10,7 @@ Salvador, Bahia
 ## Available the roles
 We're looking for an university students to join and learn with any of ours Jusbrasil's Developers team ;) Working with us you will see through all phases of a product, from business needs, product conception, development, release, to the user engagement.
 
-#### Opportunities Team \[NOT available right now\]
+#### Opportunities Team \[AVAILABLE\]
 In this team we're developing tools for lawyers to improve their performance and reduce pain points. Jusbrasil has 700 thousand lawyers profiles, this is an open line of communication to understand their needs and create the best product possible. It is a continuous effort of the team to get insights for new features with customer development, surveys and benchmarks.
 
 ## Basic Requirements
