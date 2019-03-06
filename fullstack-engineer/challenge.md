@@ -1,4 +1,4 @@
-# Fullstack Challenge
+# Fullstack Engineer Challenge
 
 Este é um desafio para testar seus conhecimentos em JavaScript, React, Relay, Graphql, tecnologia de backend e banco de dados de sua preferência;
 
