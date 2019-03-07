@@ -20,7 +20,7 @@ On a daily basis, you'll be helping the team to thrive, implementing new feature
  - You test your code
 
  ## Extra bonus if you
- - You're experienced with backend programming languages: ReactJS, PHP, Python, NodeJS
+ - You're experienced with backend programming languages: PHP, Python, NodeJS
  - You’re experienced with Relay and GraphQL
  - You're experienced with cloud computing
  - Are involved with the tech community
