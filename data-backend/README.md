@@ -1,4 +1,4 @@
-## Backend Engineer | Data team
+## Senior Backend Engineer | Data team
 Salvador, Bahia / São Paulo, SP / Remote
 
 ### About you
@@ -14,19 +14,19 @@ On a daily basis, you'll be helping the team to thrive, implementing data extrac
 
 
  ### Basic Requirements
- - You have at least 2 years of experience with hands on Software Development
+ - You have at least 4 years of experience with hands on Software Development
  - You're experienced with at least one Object or Functional Oriented programming language (Bonus if you're experienced with Python)
  - English content should be no problem for you to master (Bonus if you're an English Speaker)
+ - Have deployed large scale systems
+ - Have experience with Distributed Systems (Task queueing, Distributed databases, Caching, etc)
  - You test your code
 
  ### Extra bonus if you
  - Are involved with the tech community
  - Have open-source experience
- - Have deployed large scale systems
- - Have experience with Distributed Systems (Task queueing, Distributed databases, Caching, etc)
 
 
- Some of the technologies that Jusbrasil works with: Python, Scala, GO, ES6, Mongo, RabbitMQ, Kafka, GraphQL, Bigtable, Kubernetes, Docker, Redis, React, ElasticSearch, Google Cloud Platform, etc.
+Some of the technologies that Jusbrasil works with: Python, Scala, GO, ES6, Mongo, RabbitMQ, Kafka, GraphQL, Bigtable, Kubernetes, Docker, Redis, React, ElasticSearch, Google Cloud Platform, etc.
 
  ### Benefits
  - Highly Competitive Salary
