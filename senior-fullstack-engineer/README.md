@@ -8,19 +8,19 @@ Salvador, Bahia / São Paulo, SP / Remote
 - You can hit the ground running
 
 ### About the role
-We fight the justice gap by connecting people with legal information they need to understand their rights and to provide better legal services. [Learn more](https://sobre.jusbrasil.com.br/) .
+We fight the justice gap by connecting people with legal information they need to understand their rights and to provide better legal services. [Learn more](https://sobre.jusbrasil.com.br/).
 
-Our team has the mission to create a great user experience for almost 30 millions unique visitors by month, displaying millions of documents, helping the lawyer’s workflow and allowing citizens to find their rights. 
+Our team has the mission to create a great user experience for almost 30 millions unique visitors by month, displaying millions of documents, helping the lawyer’s workflow and allowing citizens to find their rights.
 
-On a daily basis, you'll help the team to implement new workflow features, improve performance, reviewing Pull requests and being part of planning meetings to discuss priorities and tackle on things that might get in our way.
+On a daily basis, you'll help the team to implement new workflow features, improve performance, reviewing pull requests and being part of planning meetings to discuss priorities and tackle on things that might get in our way.
 
 
 ### Basic Requirements
  - You have at least 4 years of experience with hands on Software Development
  - You're experienced with at least one Object Oriented or Functional programming language
  - You're experienced with frontend development, using modern Javascript frameworks and CSS Preprocessors
- - English content should be no problem for you to master (Bonus if you're an English Speaker)
- - You're always seeking for share knowledge
+ - English content should be no problem for you to master (bonus if you're an english speaker)
+ - You always seek to share knowledge
  - You can't stand untested code
 
 ### Extra bonus if you
@@ -28,11 +28,11 @@ On a daily basis, you'll help the team to implement new workflow features, impro
  - Have experience with React, Relay and GraphQL development
  - Have experience with SEO, performance, AMP and others frontend techniques
  - Have deployed large scale systems
- - Have open-source experience
+ - Have experience with open source software
  - Have experience with Docker, Kubernetes, Google Cloud Platform, etc
 
 
-Some of the technologies that Jusbrasil works with: Python, Scala, GO, ES6, Mongo, RabbitMQ, Kafka, GraphQL, Bigtable, Kubernetes, Docker, Redis, React, Relay, ElasticSearch, Google Cloud Platform, etc.
+Some of the technologies that Jusbrasil works with: Python, Scala, Go, ES6, Mongo, RabbitMQ, Kafka, GraphQL, Bigtable, Kubernetes, Docker, Redis, React, Relay, ElasticSearch, Google Cloud Platform, etc.
 
 ### Benefits
  - Highly Competitive Salary
@@ -43,8 +43,7 @@ Some of the technologies that Jusbrasil works with: Python, Scala, GO, ES6, Mong
  - Weekly happy hours (with instruments, beer and things that come along with it :-)
 
 ### Want to learn more about us?
- [Uma espiadinha dentro do Jusbrasil](https://danielmurta.jusbrasil.com.br/artigos/383937197/o-o-uma-espiadinha-dentro-do-jusbrasil
- )
+ [Uma espiadinha dentro do Jusbrasil](https://danielmurta.jusbrasil.com.br/artigos/383937197/o-o-uma-espiadinha-dentro-do-jusbrasil)
 
 If you're interested, please mail us at vagas@jusbrasil.com.br with the subject `<YOUR_NAME> | Full Stack Engineer Position | Distrib.`.
 Make sure you include at least an up-to-date resume or a quick intro about yourself.
