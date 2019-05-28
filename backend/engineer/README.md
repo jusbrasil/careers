@@ -1,8 +1,9 @@
-## Backend Engineer
+## Senior Backend Engineer
 Salvador, Bahia / São Paulo, SP / Lisboa, Portugal / Remote
 
 ### About you
 - Working with a fast-paced, highly technical team and having an extremely challenging roadmap ahead doesn't frighten you, it drives you
+- Be secure to discuss with your teammates about hard decisions
 - Being at the top of your game is a must for you. You're hungry for knowledge and seeks improving yourself every day
 - You love programming and are eager about learning new technologies
 - You can hit the ground running
@@ -11,15 +12,16 @@ Salvador, Bahia / São Paulo, SP / Lisboa, Portugal / Remote
 We're looking for a Backend Engineer to be a Jusbrasil's Developer in one of the following teams:
 
 #### Payment team [[challenge available](./payment-challenge.md)]
-Do you know how important is that payment form page that you cross sometimes at almost any available service in the web? Our job starts there and go through a bunch more of great challenges! We handle every customer subscription, making sure that they all receives what they're paying for; we have to communicate to multiple services to guarantee that the best route is chosen for each individual payment made to our products; and of course we need to know what need to be improved and how to improve it. Our job, besides programming services that reaches almost 20 million people every month (and still growing) is to collect, analysis and act over data from each of our services!
+Do you know how important is that payment form page that you cross sometimes at almost any available service in the web? Our job starts there and go through a bunch more of great challenges! We handle every customer subscription, making sure that they all receives what they're paying for; we have to communicate to multiple services to guarantee that the best route is chosen for each individual payment made to our products; and of course we need to know what need to be improved and how to improve it. Our job, besides programming services that reaches almost 20 million people every month (and still growing) is to collect, analyse and act over data from each of our services!
 
-### Basic Requirements
-- You have at least 2 years of experience with hands on Software Development
+### Requirements
+- You have at least 4 years of experience with hands on Software Development
 - You're experienced with at least one Object or Functional Oriented programming language (Bonus if you're experienced with Python, Scala or Javascript)
 - English content should be no problem for you to master (Bonus if you're an English Speaker)
 - You test your code
 
 ### Extra bonus if you
+- Have worked with payments environments
 - Are involved with the tech community
 - Have open-source experience
 - Have deployed large scale systems
