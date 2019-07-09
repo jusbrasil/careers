@@ -1,4 +1,4 @@
-# Application test to Engineer role at Jusbrasil's Payment team
+# Challenge: Payment System
 You will have to build a REST API (JavaScript and Node.js are the preferrable language and runtime environment, but you may build it as you wish) that will integrate two different payment services (like building a gateway that communicate with stripe and paypal).
 
 ## API requirementes:
@@ -43,6 +43,6 @@ You will have to build a REST API (JavaScript and Node.js are the preferrable la
   Return: transactionObj = `{"id": transaction_id, "amount": >100, "result": true|false, "cc_token": CC_TOKEN, "client_id": CID}`
 - GET route to /clients/CID/transactions:
   Return: `[{transactionObj}]`
- 
+
 
 ** if the gateway's endpoints aren't available at the time u're building ur test, please open an issue and we will take care of it

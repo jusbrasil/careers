@@ -1,4 +1,4 @@
-# Desafio Carrinho de Compras
+# Desafio: Carrinho de Compras
 
 Este é um desafio para testar seus conhecimentos em JavaScript, React, Relay, Graphql.
 

@@ -1,4 +1,4 @@
-# PHP Challenge
+# Desafio: Cadastro e Pagamento em PHP 
 Este é um desafio para testar seus conhecimentos em PHP, Javascript, HTML 5 e CSS 3.
 
 Neste teste existem várias respostas corretas, pois o objetivo é avaliar a sua forma de codificação, e suas habilidades usando as tecnologias propostas.
