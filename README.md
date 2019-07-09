@@ -14,8 +14,8 @@ Recruiting for: Salvador, BA / São Paulo, SP / Belo Horizonte, MG / World Wide,
 ### Open Positions
 - [Full Stack Engineer - Site Jusbrasil](https://jobs.kenoby.com/jusbrasil/job/senior-fullstack-engineer/5cf9980fe7299b487560a34e)
 - [Mobile Engineer - Escritório Online (SaaS)](https://jobs.kenoby.com/jusbrasil/job/mobile-engineer/5cf054e594801f4025967e0f)
-- [Senior Backend Engineer - Data Team](https://github.com/jusbrasil/careers/blob/tupy/reorg/positions/Senior%20Backend%20Engineer%20-%20Data.md)
-- [Senior Full Stack Engineer - Marketplaces Platform](https://github.com/jusbrasil/careers/blob/tupy/reorg/positions/Senior%20Full%20Stack%20Engineer%20-%20Marketplaces.md)
+- [Senior Backend Engineer - Data Team](./positions/Senior%20Backend%20Engineer%20-%20Data.md)
+- [Senior Full Stack Engineer - Marketplaces Platform](./positions/Senior%20Full%20Stack%20Engineer%20-%20Marketplaces.md)
 
 
 [>>See all open positions<<](positions/)
