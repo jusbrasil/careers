@@ -1,5 +1,5 @@
-## Mobile Engineer
-Salvador, Bahia / São Paulo, SP / Remote
+# Mobile Engineer - Escritório Online (SaaS)
+Salvador, BA / São Paulo, SP / Remote
 
 ### About you
 - Working with a fast-paced, highly technical team and having an extremely challenging roadmap ahead doesn't frighten you, it drives you
@@ -30,15 +30,21 @@ On a daily basis, you'll be helping the team to thrive, implementing new feature
  - Have experience with native animations 😍
 
 ### Benefits
- - Highly Competitive Salary
- - Working with great people - No Assholes (really)
- - Remote work is fine
- - Flexible schedule - Just do whatever works best for you
- - Working at a company that knows that maintaining a great culture is a key factor to success
- - Weekly happy hours (with instruments, beer and things that come along with it :-)
+- Highly Competitive Salary
+- Working with great people - No Assholes (really)
+- Remote work is more than welcome
+- Flexible schedule - Just do whatever works best for you
+- Working at a company that knows that maintaining a great culture is a key factor to success
+- Weekly happy hours (with instruments, beer and things that come along with it :-)
+
+If you're interested, please mail us at vagas@jusbrasil.com.br with the subject `<YOUR_NAME> | Mobile Engineer - Escritório Online`.
+Make sure you include at least an up-to-date resume or a quick intro about yourself.
+
+Don't you have all requirements, but you think you could help us to build our mission? Contact us ;)
+
 
 ### Want to learn more about us?
- [Uma espiadinha dentro do Jusbrasil](https://danielmurta.jusbrasil.com.br/artigos/383937197/o-o-uma-espiadinha-dentro-do-jusbrasil)
-
-If you're interested, please mail us at vagas@jusbrasil.com.br with the subject `<YOUR_NAME> | Mobile Engineer Position`.
-Make sure you include at least an up-to-date resume or a quick intro about yourself.
+ * [Sobre o Jusbrasil](https://jusbrasil.jusbrasil.com.br/artigos/111826539/sobre-o-jusbrasil)
+ * [Uma espiadinha dentro do Jusbrasil](https://danielmurta.jusbrasil.com.br/artigos/383937197/o-o-uma-espiadinha-dentro-do-jusbrasil)
+ * [Como o Jusbrasil funciona](https://medium.com/jusbrasil-tech/como-o-jusbrasil-funciona-4303f2b1d356)
+ * [Como manter e disponibilizar a maior base de dados jurídicos do país para 10 milhões de brasileiros por mês](http://qconsp.com/sp2013/node/449.html)
