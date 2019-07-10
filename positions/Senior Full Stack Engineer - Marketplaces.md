@@ -15,6 +15,7 @@ You will work on top of Escritório Online (EO), a SaaS used by 15k lawyers to i
 
 ### Requirements
 - You have at least 5 years of experience with hands on Software Development
+- You're experienced with Computer Science fundamentals and algorithms
 - You're experienced with at least one Object Oriented or Functional programming language
 - You're experienced with frontend development, using modern Javascript frameworks (React) and CSS Preprocessors
 - Strong in Python experience or the ability to ramp up in Python quickly
@@ -24,6 +25,7 @@ You will work on top of Escritório Online (EO), a SaaS used by 15k lawyers to i
 - You can't stand untested code
 
 ### Extra bonus if you
+- Have experience with PHP
 - Are involved with the tech community
 - Have deployed large scale systems
 - Have open-source experience
