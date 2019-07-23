@@ -9,7 +9,7 @@
 - You know how to listen to feedback and understand how to learn more and make your work better.
 
 ## About the role
-We're looking for an university student to join and learn with Jusbrasil's Design team. We are developing tools for lawyers to improve their performance and reduce pain points. Jusbrasil has 700K lawyers profiles, this is an open line of communication to understand their needs and create the best products possible. It is a continuous effort of the team to get insights for new features with customer development, surveys and benchmarks.
+We're looking for a university student to join and learn with Jusbrasil's Design team. We are developing tools for lawyers to improve their performance and reduce pain points. Jusbrasil has 700K lawyers profiles, this is an open line of communication to understand their needs and create the best products possible. It is a continuous effort of the team to get insights for new features with customer development, surveys and benchmarks.
 
 Working with us you'll see through all phases of a product, from business needs – product conception, development, release – to the user engagement.
 
